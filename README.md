@@ -1,4 +1,4 @@
-# CBC Extensions (eBird Trip Report → CSV) · [Buy me a coffee](https://buymeacoffee.com/bartg)
+# CBC Extensions (eBird Trip Report → CSV)
 
 Adds an **Export CSV** button to eBird trip report pages (`https://ebird.org/tripreport/*`) and downloads `tripreport_<id>.csv`.
 
