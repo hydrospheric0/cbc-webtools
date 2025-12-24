@@ -1,0 +1,6 @@
+# Package artifacts
+extension-chrome/dist/
+extension-firefox/dist/
+
+# OS
+.DS_Store
