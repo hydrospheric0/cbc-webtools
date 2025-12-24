@@ -16,7 +16,7 @@ Folders:
 AMO (Firefox, unlisted submission): https://addons.mozilla.org/developers/addon/2965443/versions
 
 AMO upload file (Firefox):
-- Upload this (unsigned build): [downloads/ebird-tripreport-to-csv_firefox_v0.1.3.xpi](downloads/ebird-tripreport-to-csv_firefox_v0.1.3.xpi)
+- Upload this (unsigned build): [downloads/ebird-tripreport-to-csv_firefox_v0.1.4.xpi](downloads/ebird-tripreport-to-csv_firefox_v0.1.4.xpi)
 - After AMO signs it, download the signed XPI and replace/update `downloads/ebird-tripreport-to-csv_firefox_signed.xpi`
 
 ---
