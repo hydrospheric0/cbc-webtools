@@ -13,6 +13,8 @@ Folders:
 - [Chrome/Chromium (zipfile)](https://raw.githubusercontent.com/hydrospheric0/cbc-webtools/main/downloads/ebird-tripreport-to-csv_chrome.zip)
 - [Firefox (xpi)](https://raw.githubusercontent.com/hydrospheric0/cbc-webtools/main/downloads/ebird-tripreport-to-csv_firefox_signed.xpi)
 
+AMO (Firefox, unlisted submission): https://addons.mozilla.org/developers/addon/2965443/versions
+
 ---
 
 ## Install (Chrome / Chromium)
