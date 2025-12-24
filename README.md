@@ -10,14 +10,14 @@ Folders:
 
 ## Downloads
 
-- Chrome/Chromium (.zip): [downloads/ebird-tripreport-to-csv_chrome.zip](downloads/ebird-tripreport-to-csv_chrome.zip)
-- Firefox (.xpi): [downloads/ebird-tripreport-to-csv_firefox.xpi](downloads/ebird-tripreport-to-csv_firefox.xpi)
+- Chrome/Chromium (.zip): https://raw.githubusercontent.com/hydrospheric0/cbc-webtools/main/downloads/ebird-tripreport-to-csv_chrome.zip
+- Firefox (.xpi): https://raw.githubusercontent.com/hydrospheric0/cbc-webtools/main/downloads/ebird-tripreport-to-csv_firefox.xpi
 
 ---
 
 ## Install (Chrome / Chromium)
 
-1. Download: [downloads/ebird-tripreport-to-csv_chrome.zip](downloads/ebird-tripreport-to-csv_chrome.zip)
+1. Download: https://raw.githubusercontent.com/hydrospheric0/cbc-webtools/main/downloads/ebird-tripreport-to-csv_chrome.zip
 2. Unzip it.
 3. Open `chrome://extensions`.
 4. Enable **Developer mode**.
@@ -28,7 +28,7 @@ Folders:
 
 ## Install (Firefox)
 
-1. Download: [downloads/ebird-tripreport-to-csv_firefox.xpi](downloads/ebird-tripreport-to-csv_firefox.xpi)
+1. Download: https://raw.githubusercontent.com/hydrospheric0/cbc-webtools/main/downloads/ebird-tripreport-to-csv_firefox.xpi
 2. Install:
 	 - Try: `about:addons` → ⚙️ → **Install Add-on From File…** → choose the `.xpi`.
 	 - If Firefox refuses because the add-on is unsigned, use temporary install instead:
