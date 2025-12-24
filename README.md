@@ -1,5 +1,7 @@
 # CBC Extensions
 
+[Buy me a coffee](https://buymeacoffee.com/bartg)
+
 ## eBird Trip Report → CSV
 
 This repo contains browser extensions that add an **Export CSV** button to eBird trip report pages (`https://ebird.org/tripreport/*`) and download a `tripreport_<id>.csv` file using the already-rendered page content.
