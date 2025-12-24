@@ -63,8 +63,7 @@
     }
 
     return Array.from(merged.entries())
-      .map(([species, count]) => ({ species, count }))
-      .sort((a, b) => a.species.localeCompare(b.species, undefined, { sensitivity: 'base' }));
+      .map(([species, count]) => ({ species, count }));
   }
 
   function scrapeFromTable() {
@@ -95,9 +94,7 @@
       if (prev == null || count > prev) merged.set(species, count);
     }
 
-    const result = Array.from(merged.entries())
-      .map(([species, count]) => ({ species, count }))
-      .sort((a, b) => a.species.localeCompare(b.species, undefined, { sensitivity: 'base' }));
+    const result = Array.from(merged.entries()).map(([species, count]) => ({ species, count }));
 
     // guard against junk
     return result.length >= 3 ? result : [];
@@ -154,9 +151,7 @@
       }
     }
 
-    const result = Array.from(merged.entries())
-      .map(([species, count]) => ({ species, count }))
-      .sort((a, b) => a.species.localeCompare(b.species, undefined, { sensitivity: 'base' }));
+    const result = Array.from(merged.entries()).map(([species, count]) => ({ species, count }));
 
     return result.length >= 3 ? result : [];
   }
