@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "eBird Trip Report → CSV",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Export an eBird trip report species list to CSV from the rendered page.",
   "content_scripts": [
     {
@@ -11,15 +11,6 @@
       "run_at": "document_idle"
     }
   ],
-  "applications": {
-    "gecko": {
-      "id": "ebird-tripreport-to-csv@hydrospheric0.local",
-      "strict_min_version": "140.0"
-    },
-    "gecko_android": {
-      "strict_min_version": "142.0"
-    }
-  },
   "browser_specific_settings": {
     "gecko": {
       "id": "ebird-tripreport-to-csv@hydrospheric0.local",
