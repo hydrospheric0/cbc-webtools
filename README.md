@@ -30,3 +30,7 @@ Adds an **Export CSV** button to eBird trip report pages (`https://ebird.org/tri
 - AMO page (unlisted): https://addons.mozilla.org/developers/addon/2965443/versions
 - Upload to AMO (unsigned build): [downloads/ebird-tripreport-to-csv_firefox_v0.1.4.xpi](downloads/ebird-tripreport-to-csv_firefox_v0.1.4.xpi)
 - After AMO signs it, download the signed XPI and replace: `downloads/ebird-tripreport-to-csv_firefox_signed.xpi`
+
+## Support this project
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/bartg)
