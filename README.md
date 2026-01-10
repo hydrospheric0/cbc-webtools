@@ -1,5 +1,7 @@
 # CBC Extensions
 
+- Project page: https://github.com/hydrospheric0/cbc-extensions
+
 ## eBird Trip Report to CSV
 
 Adds an **Export CSV** button to eBird trip report pages (`https://ebird.org/tripreport/*`) and downloads `tripreport_<id>.csv`.
@@ -32,3 +34,6 @@ Adds an **Export CSV** button to eBird trip report pages (`https://ebird.org/tri
 <a href="https://buymeacoffee.com/bartg">
 	<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="180" />
 </a>
+
+## Support
+If you find this tool useful, please consider supporting its development: https://github.com/sponsors/hydrospheric0
