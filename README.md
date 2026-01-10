@@ -34,6 +34,3 @@ Adds an **Export CSV** button to eBird trip report pages (`https://ebird.org/tri
 <a href="https://buymeacoffee.com/bartg">
 	<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="180" />
 </a>
-
-## Support
-If you find this tool useful, please consider supporting its development: https://github.com/sponsors/hydrospheric0
