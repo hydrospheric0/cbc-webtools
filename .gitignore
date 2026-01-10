@@ -4,3 +4,6 @@ extension-firefox/dist/
 
 # OS
 .DS_Store
+
+# Local helper scripts (not tracked)
+pushit.sh
