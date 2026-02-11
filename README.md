@@ -8,8 +8,8 @@ Adds an **Export CSV** button to eBird trip report pages (`https://ebird.org/tri
 
 ### Downloads
 
-- [Chrome/Chromium (zipfile)](https://raw.githubusercontent.com/hydrospheric0/cbc-webtools/main/downloads/ebird-tripreport-to-csv_chrome.zip)
 - [Firefox (signed xpi)](https://raw.githubusercontent.com/hydrospheric0/cbc-webtools/main/downloads/ebird-tripreport-to-csv_firefox_signed.xpi)
+- [Chrome/Chromium (zipfile)](https://raw.githubusercontent.com/hydrospheric0/cbc-webtools/main/downloads/ebird-tripreport-to-csv_chrome.zip)
 
 ### Install (Firefox)
 
