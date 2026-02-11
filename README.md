@@ -2,8 +2,6 @@
 
 [![languages](https://img.shields.io/github/languages/count/hydrospheric0/cbc-extensions?label=languages)](https://github.com/hydrospheric0/cbc-extensions)
 
-- Project page: https://github.com/hydrospheric0/cbc-extensions
-
 ## eBird Trip Report to CSV
 
 Adds an **Export CSV** button to eBird trip report pages (`https://ebird.org/tripreport/*`) and downloads `tripreport_<id>.csv`.
