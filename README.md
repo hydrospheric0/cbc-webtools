@@ -1,4 +1,4 @@
-# CBC Extensions
+# eBird Tripreport CSV
 
 [![languages](https://img.shields.io/github/languages/count/hydrospheric0/cbc-extensions?label=languages)](https://github.com/hydrospheric0/cbc-extensions)
 
