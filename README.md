@@ -1,6 +1,6 @@
 # eBird Tripreport CSV
 
-[![languages](https://img.shields.io/github/languages/count/hydrospheric0/cbc-extensions?label=languages)](https://github.com/hydrospheric0/cbc-extensions)
+[![languages](https://img.shields.io/github/languages/count/hydrospheric0/ebird-tripreport-csv?label=languages)](https://github.com/hydrospheric0/ebird-tripreport-csv)
 
 ## eBird Trip Report to CSV
 
@@ -8,8 +8,8 @@ Adds an **Export CSV** button to eBird trip report pages (`https://ebird.org/tri
 
 ### Downloads
 
-- [Firefox (signed xpi)](https://raw.githubusercontent.com/hydrospheric0/cbc-webtools/main/downloads/ebird-tripreport-to-csv_firefox_signed.xpi)
-- [Chrome/Chromium (zipfile)](https://raw.githubusercontent.com/hydrospheric0/cbc-webtools/main/downloads/ebird-tripreport-to-csv_chrome.zip)
+- [Firefox (signed xpi)](https://raw.githubusercontent.com/hydrospheric0/ebird-tripreport-csv/main/downloads/ebird-tripreport-to-csv_firefox_signed.xpi)
+- [Chrome/Chromium (zipfile)](https://raw.githubusercontent.com/hydrospheric0/ebird-tripreport-csv/main/downloads/ebird-tripreport-to-csv_chrome.zip)
 
 ### Install (Firefox)
 
@@ -28,9 +28,3 @@ Adds an **Export CSV** button to eBird trip report pages (`https://ebird.org/tri
 5. Click **Load unpacked**.
 6. Select the unzipped folder (the folder containing `manifest.json`).
 7. Open an eBird trip report and click **Export CSV**.
-
-### Support this project
-
-<a href="https://buymeacoffee.com/bartg">
-	<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="180" />
-</a>
